@@ -13,11 +13,11 @@ Si teniu sort, i el vostre provehidor d'internet s'ha negat a bloquejar-la, la p
 
 Aquest repositòri per art de màgia de GitHub està disponible, com a mínim, a
 
-    https://jordimurgo.github.io/votarem/
+* https://jordimurgo.github.io/votarem/
 
 Avui està de moda aquesta:
 
-    http://guardiacivil.sexy    (ho sento, no hi ha https)
+* http://guardiacivil.sexy    (ho sento, no hi ha https)
 
 # Mètodes alternatius
 
@@ -33,11 +33,11 @@ Envieu un missatge de WhatsApp al telèfon +34667706024 dient "hola", i seguiu l
 ## Proxy
 Feu de hackers amateurs, i utilitzeu un "Proxy" per saltar-se els bloquejos polítics anant a una d'aquestes pàgines:
 
-    https://www.hide.me/es/proxy
-    https://wwww.proxysite.com
-    https://hidester.com/proxy
+* https://www.hide.me/es/proxy
+* https://wwww.proxysite.com
+* https://hidester.com/proxy
 
 I llavors introduiu l'adreça de la web del referendum al formulari.
 
-    garantiespelreferendum.com
+* garantiespelreferendum.com
 
