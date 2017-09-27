@@ -14,6 +14,7 @@ Si teniu sort, i el vostre provehidor d'internet s'ha negat a bloquejar-la, la p
 Aquest repositòri per art de màgia de GitHub està disponible, com a mínim, a
 
 * https://jordimurgo.github.io/votarem/
+* https://davidkaste.github.io/votarem/
 
 Avui està de moda aquesta:
 
