@@ -7,7 +7,7 @@ Aquest repositori de codi és una copia de la web oficial del referendum, amb la
 La pàgina web original segueix operativa, però alguns provehidors espanyols l'han tallat a petició de la fiscalia.
 Si teniu sort, i el vostre provehidor d'internet s'ha negat a bloquejar-la, la podeu consultar aquí:
 
-    https://garantiespelreferendum.com/
+* https://garantiespelreferendum.com/
 
 # Webs mirall
 
